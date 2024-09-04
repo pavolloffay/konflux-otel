@@ -1,3 +1,0 @@
-[submodule "redhat-opentelemetry-collector"]
-	path = redhat-opentelemetry-collector
-	url = https://github.com/os-observability/redhat-opentelemetry-collector.git
