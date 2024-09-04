@@ -1,4 +1,5 @@
-# konflux-otel
+# Konflux OpenTelemetery
 
-Konflux configuration for Red hat build of OpenTelemetry
+Konflux configuration for Red hat build of OpenTelemetry.
+
 
